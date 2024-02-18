@@ -1,4 +1,4 @@
-# Farcaster Frames Poll app
+# Farcaster Frames Poll
 
 A example Poll app using [Farcaster Frames](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5). 
 
